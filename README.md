@@ -28,3 +28,8 @@ layer.bias: (128,)
 ```
 
 And if you print in `numpy` format, you will get value of weight and bias
+
+## TODO
+
+- [ ] Update more complex example
+- [ ] Add example of another opset (Simple model is opset 13)
