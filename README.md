@@ -1,5 +1,7 @@
 # Deep Understand about ONNX
 
+In this project, I will use `torch` and `onnx` to provide from basic to complex understanding about ONNX
+
 ## How ONNX store params
 
 Create a simple onnx model with one `Conv2d` layer using `torch`
