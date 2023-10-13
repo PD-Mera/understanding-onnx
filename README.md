@@ -4,7 +4,7 @@ In this project, I will use `torch` and `onnx` to provide from basic to complex 
 
 ## How ONNX store params
 
-Create a simple onnx model with one `Conv2d` layer using `torch`
+Create a simple onnx model with one `Linear` layer using `torch`
 
 ``` python
 class SimpleModel(nn.Module):
